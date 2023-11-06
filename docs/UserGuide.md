@@ -284,8 +284,8 @@ If the index is negative or 0, or the member does not exist in the list, this co
 
 ##### Example of usage:
 
-`copyMember 1` or `cpm 1`<br/>
-This copies the details of the member at index 1 to the clipboard.
+- `copyMember 1` or `cpm 1`<br/>
+  This copies the details of the member at index 1 to the clipboard.
 
 ![Copy_Member](images/copyMember.jpg)
 
@@ -450,8 +450,8 @@ If the index is negative or 0, or the applicant does not exist in the list, this
 
 ##### Example of usage:
 
-`copyApplicant 1` or `cpa 1`<br/>
-This copies the details of the applicant at index 1 to the clipboard.
+- `copyApplicant 1` or `cpa 1`<br/>
+  This copies the details of the applicant at index 1 to the clipboard.
 
 ![Copy_Applicant](images/copyApplicant.jpg)
 
