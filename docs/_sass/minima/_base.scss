@@ -72,9 +72,8 @@ img {
 }
 
 img.emoji {
-  max-width: 100%;
-  vertical-align: middle;
-  padding: 0;
+  vertical-align: sub;
+  padding: 0 4px 0 0;
 }
 
 /**
