@@ -211,7 +211,7 @@ You may check out the command [here](#413-viewing-members-viewmembers-or-view).
 
 #### 4.1.3 Viewing members: `viewMembers` or `viewm`
 
-Generates a list of all existing member(s). An example of where you might want to use this command is if
+Displays a list of all existing member(s). An example of where you might want to use this command is if
 you want to go back to viewing all members after a search
 with [`findMember`](#412-finding-members-findmember-or-findm).
 
@@ -223,7 +223,7 @@ with [`findMember`](#412-finding-members-findmember-or-findm).
 ##### Example of usage:
 
 - `viewMembers`<br/>
-  Generates a list of all existing member(s).
+  Displays a list of all existing member(s).
 
 ![View_Member](images/viewMember.png)
 
@@ -339,7 +339,7 @@ You may check out the command [here](#423-viewing-applicants-viewapplicants-or-v
 
 #### 4.2.3 Viewing applicants: `viewApplicants` or `viewa`
 
-Generates a list of all existing applicant(s). An example of where you might want to use this command is if
+Displays a list of all existing applicant(s). An example of where you might want to use this command is if
 you want to go back to viewing all members after a search
 with [`findApplicant`](#422-finding-applicants-findapplicant-or-finda).
 
@@ -351,7 +351,7 @@ with [`findApplicant`](#422-finding-applicants-findapplicant-or-finda).
 ##### Example of usage:
 
 - `viewa`<br/>
-  Generates a list of all existing applicant(s).
+  Displays a list of all existing applicant(s).
 
 ![View_Applicant](images/viewApplicants.png)
 
