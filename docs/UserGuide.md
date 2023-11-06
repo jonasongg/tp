@@ -332,7 +332,7 @@ Find and generate a list of all existing applicants(s) whose information contain
 
 <div markdown="span" class="alert alert-primary">:bulb: **Tip:**
 
-If you would like to go back to the whole list of members, use `.
+If you would like to go back to the whole list of members, use `viewa`.
 You may check out the command [here](#423-viewing-applicants-viewapplicants-or-viewa)
 
 </div>
