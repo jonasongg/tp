@@ -272,8 +272,8 @@ Copies the details of the member at the specified index to the clipboard.
 
 ##### Usage:
 
-`copyMember {index}`<br/>
-`cpm {index}`
+`copyMember INDEX`<br/>
+`cpm INDEX`
 
 <div markdown="span" class="alert alert-primary">
 
@@ -439,8 +439,8 @@ Copies the details of the applicant at the specified index to the clipboard.
 
 ##### Usage:
 
-`copyApplicant {index}`
-`cpa {index}`
+`copyApplicant INDEX`
+`cpa INDEX`
 
 <div markdown="span" class="alert alert-primary">
 
