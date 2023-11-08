@@ -29,6 +29,8 @@ to start keeping track of all your members and applicants!
 
 --------------------------------------------------------------------------------------------------------------------
 
+## Table of Contents
+
 * Table of Contents
 {:toc}
 
